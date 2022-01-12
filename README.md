@@ -9,6 +9,7 @@
   Run the Schema through MySQL, create/configure your ".env" file (with DB_NAME, DB_USER, and DB_PASSWORD), then run the index.js file through node.
   ## Usage: 
   Upon opening the application through node, you will be presented with several options which with you can scroll up or down with your arrow keys. You must first make a     "Department", then "Role". Then after, you may add employees.
+  A video explaining is also visible [here](https://drive.google.com/file/d/1cXdEU1hEVKEK6O_0rxGIc50sFU9Pmqic/view?usp=sharing)
   ## Licensing
   ![license](https://img.shields.io/badge/License-MIT-blue.svg)
   [Link to Licenses](https://shields.io)
