@@ -1,4 +1,4 @@
-# Work Day Planner
+# Employee Management System
   ## Description: 
   An easily usable database tool for manageing employee roles, salaries, and more in a database. 
   ## Table of Contents
